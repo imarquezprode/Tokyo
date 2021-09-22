@@ -1,0 +1,4 @@
+# Privacy Rules
+- secret passwords
+- 2FA
+- Password Manager
