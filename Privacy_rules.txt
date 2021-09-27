@@ -2,3 +2,4 @@
 - secret passwords
 - 2FA
 - Password Manager
+- Automatic password reset every 4 months
